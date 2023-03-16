@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+    header
+    {
+        padding-top: 20px ;
+        padding-bottom: 20px ;
+        justify-content: space-between;
+        align-items: center;
+    }
+    img {
+        overflow: clip;
+    }
+    a{
+        padding-left:15px;
+        padding-right: 15px;
+        font-size: 14px;
+        display: flex;
+        cursor: pointer;   
+    }
